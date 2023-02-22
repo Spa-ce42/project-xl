@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/project-xl.iml" filepath="$PROJECT_DIR$/project-xl.iml" />
       <module fileurl="file://$PROJECT_DIR$/project-xl-2d/project-xl-2d.iml" filepath="$PROJECT_DIR$/project-xl-2d/project-xl-2d.iml" />
       <module fileurl="file://$PROJECT_DIR$/project-xl-3d/project-xl-3d.iml" filepath="$PROJECT_DIR$/project-xl-3d/project-xl-3d.iml" />
-      <module fileurl="file://$PROJECT_DIR$/project-xl-core/project-xl-core.iml" filepath="$PROJECT_DIR$/project-xl-core/project-xl-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/tests/tests.iml" filepath="$PROJECT_DIR$/tests/tests.iml" />
     </modules>
   </component>
